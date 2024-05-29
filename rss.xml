@@ -4,15 +4,14 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 01:57:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 02:01:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
             <title><![CDATA[Lecture 1: Probabilistic Models and Probability Measures]]></title>
             <guid>592a62c4026b4f5fb32436c9c3dcf218</guid>
             <pubDate>Tue, 28 May 2024 14:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[<h1 id="lecture-1-probabilistic-models-and-probability-measures">Lecture 1: Probabilistic Models and Probability Measures</h1>
-<p><a title="https://ocw.mit.edu/courses/6-436j-fundamentals-of-probability-fall-2018/c37dc8b61cdf6bde689a627bfa5b4942_MIT6_436JF18_lec01.pdf" href="https://ocw.mit.edu/courses/6-436j-fundamentals-of-probability-fall-2018/c37dc8b61cdf6bde689a627bfa5b4942_MIT6_436JF18_lec01.pdf">lecture pdf</a></p>
+            <content:encoded><![CDATA[<p><a title="https://ocw.mit.edu/courses/6-436j-fundamentals-of-probability-fall-2018/c37dc8b61cdf6bde689a627bfa5b4942_MIT6_436JF18_lec01.pdf" href="https://ocw.mit.edu/courses/6-436j-fundamentals-of-probability-fall-2018/c37dc8b61cdf6bde689a627bfa5b4942_MIT6_436JF18_lec01.pdf">lecture pdf</a></p>
 <h2 id="summary">Summary</h2>
 <ul>
 <li>Section 3 is about discrete probability measures</li>
